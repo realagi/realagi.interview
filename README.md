@@ -11,6 +11,8 @@
    - automate voice interviews
      - and video interviews
    - automate screensharing coding interviews
+   - automate arbitrary website job application
+     - resume / cover letter per job vacancy rewriting
   - Automate All Other Arbitrary Computer Tasks using (Computer / Browser using) AI Agents (accessible from OpenWebUI web interface in conversational mode)
  - Integrate payments, paywalls and subscriptions into Full Chat App Formation Deployment
  - Iterate on maintaining and adjusting featureset
